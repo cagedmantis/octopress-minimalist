@@ -1,6 +1,6 @@
 #minimalist
 
-minimalist is a theme for Octopress.
+minimalist is a theme for [Octopress](https://github.com/imathis/octopress).
 
 ##Install
 
