@@ -9,4 +9,4 @@ minimalist is a theme for Octopress.
 	$ rake install['minimalist']
 	$ rake generate
 
-Refer to the included `index.html` and `_config.yml` files when setting up your own.
+Refer to the included `index.html` and `_config.yml` files when setting up your site.
