@@ -1,6 +1,8 @@
 #minimalist
 
-minimalist is a theme for [Octopress](https://github.com/imathis/octopress).
+minimalist is a theme for [Octopress](https://github.com/imathis/octopress) created for [ryandeussing.com](http://ryandeussing.com).
+
+much to my surprise, people have asked to use it - so feel free.
 
 ##Install
 
